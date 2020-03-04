@@ -1,0 +1,1 @@
+c:\users\ciaran\documents\visual studio 2015\Projects\ERGO.BWGPublishChecker\ERGO.BWGPublishChecker\bin\Debug\ERGO.BWGPublishChecker.exe.config

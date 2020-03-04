@@ -1,0 +1,19 @@
+C:\Users\Ciaran\documents\visual studio 2015\Projects\ERGO.BWGPublishChecker\ERGO.BWGPublishChecker\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\Ciaran\documents\visual studio 2015\Projects\ERGO.BWGPublishChecker\ERGO.BWGPublishChecker\bin\Debug\microsoft.identitymodel.dll
+C:\Users\Ciaran\documents\visual studio 2015\Projects\ERGO.BWGPublishChecker\ERGO.BWGPublishChecker\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\Ciaran\documents\visual studio 2015\Projects\ERGO.BWGPublishChecker\ERGO.BWGPublishChecker\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\Ciaran\documents\visual studio 2015\Projects\ERGO.BWGPublishChecker\ERGO.BWGPublishChecker\bin\Debug\Ciaran.BWGPublishChecker.exe.config
+C:\Users\Ciaran\documents\visual studio 2015\Projects\ERGO.BWGPublishChecker\ERGO.BWGPublishChecker\bin\Debug\Ciaran.BWGPublishChecker.exe
+C:\Users\Ciaran\documents\visual studio 2015\Projects\ERGO.BWGPublishChecker\ERGO.BWGPublishChecker\bin\Debug\Ciaran.BWGPublishChecker.pdb
+C:\Users\Ciaran\documents\visual studio 2015\Projects\ERGO.BWGPublishChecker\ERGO.BWGPublishChecker\obj\Debug\Ciaran.BWGPublishChecker.exe
+C:\Users\Ciaran\documents\visual studio 2015\Projects\ERGO.BWGPublishChecker\ERGO.BWGPublishChecker\obj\Debug\Ciaran.BWGPublishChecker.pdb
+C:\Users\ckelly\OneDrive - ERGOSERVICES LTD\Desktop\My Tools\Ciaran.BWGPublishChecker\ERGO.BWGPublishChecker\bin\Debug\Ciaran.BWGPublishChecker.exe.config
+C:\Users\ckelly\OneDrive - ERGOSERVICES LTD\Desktop\My Tools\Ciaran.BWGPublishChecker\ERGO.BWGPublishChecker\obj\Debug\Ciaran.BWGPublishChecker.exe
+C:\Users\ckelly\OneDrive - ERGOSERVICES LTD\Desktop\My Tools\Ciaran.BWGPublishChecker\ERGO.BWGPublishChecker\obj\Debug\Ciaran.BWGPublishChecker.pdb
+C:\Users\ckelly\OneDrive - ERGOSERVICES LTD\Desktop\My Tools\Ciaran.BWGPublishChecker\ERGO.BWGPublishChecker\bin\Debug\Ciaran.BWGPublishChecker.exe
+C:\Users\ckelly\OneDrive - ERGOSERVICES LTD\Desktop\My Tools\Ciaran.BWGPublishChecker\ERGO.BWGPublishChecker\bin\Debug\Ciaran.BWGPublishChecker.pdb
+C:\Users\ckelly\OneDrive - ERGOSERVICES LTD\Desktop\My Tools\Ciaran.BWGPublishChecker\ERGO.BWGPublishChecker\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\ckelly\OneDrive - ERGOSERVICES LTD\Desktop\My Tools\Ciaran.BWGPublishChecker\ERGO.BWGPublishChecker\bin\Debug\microsoft.identitymodel.dll
+C:\Users\ckelly\OneDrive - ERGOSERVICES LTD\Desktop\My Tools\Ciaran.BWGPublishChecker\ERGO.BWGPublishChecker\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\ckelly\OneDrive - ERGOSERVICES LTD\Desktop\My Tools\Ciaran.BWGPublishChecker\ERGO.BWGPublishChecker\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\ckelly\OneDrive - ERGOSERVICES LTD\Desktop\My Tools\Ciaran.BWGPublishChecker\ERGO.BWGPublishChecker\obj\Debug\Ciaran.BWGPublishChecker.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\ckelly\OneDrive - ERGOSERVICES LTD\Desktop\My Tools\Ciaran.BWGPublishChecker\ERGO.BWGPublishChecker\bin\Release\Ciaran.BWGPublishChecker.exe.config
+C:\Users\ckelly\OneDrive - ERGOSERVICES LTD\Desktop\My Tools\Ciaran.BWGPublishChecker\ERGO.BWGPublishChecker\bin\Release\Ciaran.BWGPublishChecker.exe
+C:\Users\ckelly\OneDrive - ERGOSERVICES LTD\Desktop\My Tools\Ciaran.BWGPublishChecker\ERGO.BWGPublishChecker\bin\Release\Ciaran.BWGPublishChecker.pdb
+C:\Users\ckelly\OneDrive - ERGOSERVICES LTD\Desktop\My Tools\Ciaran.BWGPublishChecker\ERGO.BWGPublishChecker\bin\Release\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\ckelly\OneDrive - ERGOSERVICES LTD\Desktop\My Tools\Ciaran.BWGPublishChecker\ERGO.BWGPublishChecker\bin\Release\microsoft.identitymodel.dll
+C:\Users\ckelly\OneDrive - ERGOSERVICES LTD\Desktop\My Tools\Ciaran.BWGPublishChecker\ERGO.BWGPublishChecker\bin\Release\Microsoft.Xrm.Sdk.dll
+C:\Users\ckelly\OneDrive - ERGOSERVICES LTD\Desktop\My Tools\Ciaran.BWGPublishChecker\ERGO.BWGPublishChecker\bin\Release\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\ckelly\OneDrive - ERGOSERVICES LTD\Desktop\My Tools\Ciaran.BWGPublishChecker\ERGO.BWGPublishChecker\obj\Release\Ciaran.BWGPublishChecker.exe
+C:\Users\ckelly\OneDrive - ERGOSERVICES LTD\Desktop\My Tools\Ciaran.BWGPublishChecker\ERGO.BWGPublishChecker\obj\Release\Ciaran.BWGPublishChecker.pdb
+C:\Users\ckelly\OneDrive - ERGOSERVICES LTD\Desktop\My Tools\Ciaran.BWGPublishChecker\ERGO.BWGPublishChecker\obj\Release\Ciaran.BWGPublishChecker.csprojResolveAssemblyReference.cache
